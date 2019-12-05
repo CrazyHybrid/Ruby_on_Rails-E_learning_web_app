@@ -158,7 +158,7 @@ GEM
     sass-rails (4.0.3)
       railties (>= 4.0.0, < 5.0)
       sass (~> 3.2.0)
-      sprockets (>= 2.12.5)
+      sprockets
       sprockets-rails (~> 2.0)
     sdoc (0.4.0)
       json (~> 1.8)
@@ -170,7 +170,7 @@ GEM
     skinny (0.2.3)
       eventmachine (~> 1.0.0)
       thin (~> 1.5.0)
-    sprockets (2.11.0)
+    sprockets
       hike (~> 1.2)
       multi_json (~> 1.0)
       rack (>= 1.6.11)
@@ -178,7 +178,7 @@ GEM
     sprockets-rails (2.0.1)
       actionpack (>= 4.2.5.1)
       activesupport (>= 4.1.11)
-      sprockets (>= 2.12.5)
+      sprockets
     sqlite3 (1.3.9)
     sqlite3-ruby (1.3.3)
       sqlite3 (>= 1.3.3)
